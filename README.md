@@ -10,3 +10,5 @@ O último modelo do código modelo_lighthouse.ipynb (aba: SVM com SMOTE oversamp
 Após rodar a aba 'Importações' no arquivo modelo_lighthouse.ipynb cada aba das tentativas de ajuste da base de treino (como Oversampling ou Undersampling) podem ser rodadas separadamente.
 
 Como a natureza do problema envolve detecção de falhas é mais interessante que o modelo não deixe de indentificar as falhas, mesmo que com uma precisão não ideal, do que apontar que um equipamento prestes a falhar não falhará. Portanto a métrica escolhida para a comparação dos modelos é o Recall. 
+
+O arquivo predicted.csv com as previsões para a base  desafio_manutencao_preditiva_teste.csv está na pasta 'output'.
