@@ -1,7 +1,9 @@
 # desafiolighthouse
 Os pacotes necessários e suas respectivas versões podem ser encontrados no arquivo 'requirements.txt'.
 
-São necessário os arquivos desafio_manutencao_preditiva_teste.csv e desafio_manutencao_preditiva_treino.csv
+São necessário os arquivos desafio_manutencao_preditiva_teste.csv e desafio_manutencao_preditiva_treino.csv.
+
+O Profile Report usado na EDA foi salvo como report_baseTreino em html, podendo ser salvo a partir do git e aberto em um browser.  
 
 Para cada rodada de testes o modelo salva um arquivo csv com as métricas de avaliação para cada categoria. O nome do arquivo está no formato método_tratamento.csv.
 
